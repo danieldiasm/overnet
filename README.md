@@ -19,4 +19,8 @@ It is intended to be modular, so the main framework can be expanded with whateve
 - [ ] Feature Breakdown
 - [ ] Feature Development Plan
 
-### Add on development
+### Add-on development
+
+The framework should be agnostic to the IoT System that it is controlling or interacting with. So to help make this to be dettached from a specific type of IoT, Add-Ons can be developed, in order to increase capability of some IoT systems above the common ground shared between all of them.
+
+### Initial Design - Base Roadmap
